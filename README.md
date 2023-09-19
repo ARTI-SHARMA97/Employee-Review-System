@@ -4,7 +4,7 @@ Installation
 
 To run this application on your local machine, please follow these steps:
 
-Clone this repository using the following command: https://github.com/
+Clone this repository using the following command: https://github.com/ARTI-SHARMA97/Employee-Review-System
 
 Install the required dependencies using the following command: $ npm install
 
